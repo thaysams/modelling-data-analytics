@@ -49,7 +49,7 @@ The schema follows **Third Normal Form (3NF)** and is built around nine tables:
 cinetrack-db/
 ├── README.md
 ├── diagrams/
-│   └── er_diagram.png        # Crow's Foot ER diagram
+│   └── cinetrack_erd.drawio.png       # ER Diagram
 ├── sql/
 │   ├── cinetrack_modelling_schema.sql            # DDL – CREATE TABLE statements
 │   └── cinetrack_modelling_data.sql              # DML – INSERT sample data
