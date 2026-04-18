@@ -51,8 +51,8 @@ cinetrack-db/
 ├── diagrams/
 │   └── er_diagram.png        # Crow's Foot ER diagram
 ├── sql/
-│   ├── schema.sql            # DDL – CREATE TABLE statements
-│   └── data.sql              # DML – INSERT sample data
+│   ├── cinetrack_modelling_schema.sql            # DDL – CREATE TABLE statements
+│   └── cinetrack_modelling_data.sql              # DML – INSERT sample data
 └── docs/
     └── business_questions.md # 5 business queries with results
 ```
